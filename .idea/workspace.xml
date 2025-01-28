@@ -5,22 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6c3169d-bf16-4696-a3c5-1c13038d3eba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/recetariofx/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/recetariofx/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/recetariofx/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/recetariofx/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/recetariofx/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/recetariofx/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/recetariofx/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/recetariofx/models/Receta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/recetariofx/models/Receta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/recetariofx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/recetariofx/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -40,7 +44,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
